@@ -1,0 +1,47 @@
+{
+  "item.battery.throw": {
+    "sounds": [
+      "assbat:item/battery/throw"
+    ]
+  },
+  "item.battery.zap": {
+    "sounds": [
+      "assbat:item/battery/zap0",
+      "assbat:item/battery/zap1",
+      "assbat:item/battery/zap2"
+    ]
+  },
+  "item.battery.pack": {
+    "sounds": [
+      "assbat:item/battery/pack0",
+      "assbat:item/battery/pack1",
+      "assbat:item/battery/pack2",
+      "assbat:item/battery/pack3",
+      "assbat:item/battery/pack4"
+    ]
+  },
+  "item.battery.bounce.dirt": {
+    "sounds": [
+      "assbat:item/battery/bouncedirt0",
+      "assbat:item/battery/bouncedirt1",
+      "assbat:item/battery/bouncedirt2",
+      "assbat:item/battery/bouncedirt3"
+    ]
+  },
+  "item.battery.bounce.metal": {
+    "sounds": [
+      "assbat:item/battery/bouncemetal0",
+      "assbat:item/battery/bouncemetal1",
+      "assbat:item/battery/bouncemetal2",
+      "assbat:item/battery/bouncemetal3"
+    ]
+  },
+  "item.battery.bounce.wood": {
+    "sounds": [
+      "assbat:item/battery/bouncewood0",
+      "assbat:item/battery/bouncewood1",
+      "assbat:item/battery/bouncewood2",
+      "assbat:item/battery/bouncewood3"
+    ]
+  }
+}

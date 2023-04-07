@@ -1,0 +1,17 @@
+{
+    "assbat.tab.items": "Batteries",
+    "item.assbat.battery_9v": "9V Battery",
+    "item.assbat.battery_1_5v": "1.5V Battery",
+    "item.assbat.battery_aa": "AA Battery",
+    "item.assbat.battery_aaa": "AAA Battery",
+    "item.assbat.battery_pack_9v": "Pack of 9V Batteries",
+    "item.assbat.battery_pack_1_5v": "Pack of 1.5V Batteries",
+    "item.assbat.battery_pack_aa": "Pack of AA Batteries",
+    "item.assbat.battery_pack_aaa": "Pack of AAA Batteries",
+    "death.attack.battery": "%1$s was battered by %2$s",
+    "death.attack.battery.item": "%1$s was battered by %2$s using %3$s",
+    "death.attack.battery_zap": "%1$s was zapped by %2$s",
+    "death.attack.battery_zap.item": "%1$s was zapped by %2$s using %3$s",
+    "death.attack.battery_explosion": "%1$s was zappily exploded by %2$s",
+    "death.attack.battery_explosion.item": "%1$s was zappily exploded by %2$s using %3$s"
+}

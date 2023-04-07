@@ -1,0 +1,28 @@
+modLoader = "javafml"
+loaderVersion = "[42,)"
+license = "All rights reserved"
+
+[[mods]] #mandatory
+modId="assbat" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="Assault And Battery" #mandatory
+logoFile="assbat.png" #optional
+credits="LeScooter (BoehMod)" #optional
+authors="LeScooter (BoehMod)" #optional
+description='''
+Throw batteries at your friends. Or anything, really.
+'''
+
+[[dependencies.assbat]]
+modId = "forge"
+mandatory = true
+versionRange = "[44.1.5,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.assbat]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.19.3,)"
+ordering = "NONE"
+side = "BOTH"

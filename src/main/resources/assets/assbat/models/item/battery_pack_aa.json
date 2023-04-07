@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "assbat:item/battery_pack_aa"
+	}
+}
